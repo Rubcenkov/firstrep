@@ -1,7 +1,13 @@
 #include <stdio.h>
-
+#include <math.h>
 void main(){
-    printf("hello world\n");
+    int a=0;
+    int b=0;
+    scanf("%d %d",&a,&b);
+    int c=a+b;
+    printf("%d",c);
+    
+
 
 
 
